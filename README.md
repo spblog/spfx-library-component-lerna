@@ -1,4 +1,4 @@
-1. install leran
+1. install lerna
 2. lerna init
 3. update lerna config - add spfx-library/** etc. to support deep structures
 4. scaffold lib component and web part - utils and org-app
