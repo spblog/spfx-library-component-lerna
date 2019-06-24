@@ -11,5 +11,5 @@
 7. run lerna build - runs npm run build in each repo
 8. dev flow - in lib project add npm command - "serve": "gulp serve --nobrowser" and chagne port to 4322 in serve.json; in app project add npm command "serve": "gulp serve"; run lerna run --parallel serve 
 
---
+---  
 Blog post - [Using Lerna to manage SPFx projects with library components](https://spblog.net/post/2019/06/24/using-lerna-to-manage-spfx-projects-with-library-components)
